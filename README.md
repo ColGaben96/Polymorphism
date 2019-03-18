@@ -1,3 +1,3 @@
 # Polymorphism
 
-Branch de Gabe. Los cambios ocurren mas frecuente aqui. Para la última version estable ve al master branch.
+Branch de Gabe. Pasan cambios mas seguido aquí que en el master. Para la última version estable ve al master branch.
