@@ -1,3 +1,5 @@
 # Polymorphism
 
-Branch de Gabe. Pasan cambios mas seguido aquí que en el master. Para la última version estable ve al master branch.
+Gabe's Branch.
+
+Take this as a pre-pre-alpha version of nightly releases. For last stable version go to master or release branch.
